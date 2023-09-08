@@ -1,1 +1,17 @@
-/* Your styles here */
+.logo {
+    background-color: #131921;
+    padding-bottom: 25px;
+}/* Your styles here */
+ .logo2 {
+    padding-top: 20px;
+    padding-left: 15px;
+
+    width: 130px;
+ }
+ nav {
+    background-color: #232F3E;
+ }
+ p {
+    display: inline;
+    color: white;
+ }
