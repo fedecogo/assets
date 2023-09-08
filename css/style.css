@@ -2,17 +2,17 @@
     background-color: #131921;
     padding-bottom: 25px;
 }/* Your styles here */
- .logo2 {
+.logo2 {
     padding-top: 20px;
     padding-left: 15px;
 
     width: 130px;
  }
- nav {
+header nav {
     background-color: #232F3E;
-    width: 100%;
+    width: 98.5%;
  }
- nav,p {
+nav,p {
    display: inline-block;
     color: white;
     padding-top: 0.3%;
@@ -20,11 +20,12 @@
    padding-left: 20px;
  }
 
- .conteiner {
+.conteiner {
    background-color:#f0f0f0;
+   padding-top: 3px;
  }
 
- .arancio {
+.arancio {
     margin-left: 3%;
     margin-right: 3%;
     margin-top: 21PX;
@@ -34,91 +35,73 @@
     
  }
 
- .arancio2 {
+.arancio2 {
    padding-top: 0.5%;
    padding-bottom: 0.5%;
  }
 
- .guides{
+.guides{
    margin-left: 3%;
     margin-right: 3%;
     margin-top: 21PX;
     margin-bottom: 21PX;
 
  }
- .collectionCard{
-   background-color: white;
-
-   text-align: center; 
-   
-  overflow: hidden; 
+.guides img {
+   width: 100%;
  }
 
- .card11{
-   width: 60px;
+ .esasperazione{
+   border-style: solid;
+   border-color: #dcdbdb;
+   margin-left: 3%;
+   margin-right: 3%;
+   background-color: white;
+   padding-bottom: 10px;
+   padding-top: 10px;
+   margin-bottom: 40px;
+ }
+ .collectionCard{
+   background-color: white
+ }
+
+ .collectionCard div{
+   display: inline-block;
+   margin-left: 55px;
+   margin-right: 55px;
+
    
-      float: left; /* Mette le immagini una accanto all'altra */
-      margin-left:5%;
-      margin-right:5%;
-    }
- .card22{
-   width: 60px;
-   
-      float: left; /* Mette le immagini una accanto all'altra */
-      margin-left:5%;
-      margin-right:5%;
-    }
- .card33{
-   width: 60px;
-   
-      float: left; /* Mette le immagini una accanto all'altra */
-      margin-left:5%;
-      margin-right:5%;
-    }
- .card44{
-   width: 60px;
-   
-      float: left; /* Mette le immagini una accanto all'altra */
-      margin-left:5%;
-      margin-right:5%;
-    }
+ }
+ .collectionCard img{
+   border-radius: 10%;
+   border-left: auto;
+   border-right: auto;
+ }
+
  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    .p1{
-   padding-left:50%;
-   padding-right:50%;
-   width: 170px;
-    display: inline-block;
-    text-align: center;
-    }
 
     .bigcard1 img{
-      width: 100%;
-    }
- 
- 
- 
-
-
- main , div , p {
+          width: 94%;
+         
+        }
+    .bigcard2 img{ 
+           width: 94%;
+           
+         } 
+   .bigcard1{
+      margin-left: 30px;
+      
+   }
+   .bigcard2{
+      margin-left: 30px;
+      
+   }
+    
+ .black {
    color: black;
  }
+ 
+
+
+ 
