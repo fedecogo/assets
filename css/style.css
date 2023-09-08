@@ -10,8 +10,66 @@
  }
  nav {
     background-color: #232F3E;
+    width: 100%;
  }
- p {
-    display: inline;
+ nav,p {
+   display: inline-block;
     color: white;
+    padding-top: 0.3%;
+   padding-bottom: 0.3%;
+   padding-left: 20px;
+ }
+
+ .conteiner {
+   background-color:#f0f0f0;
+ }
+
+ .arancio {
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 21PX;
+    margin-bottom: 21PX;
+    background-color: orangered;
+    text-align: center;
+    
+ }
+
+ .arancio2 {
+   padding-top: 0.5%;
+   padding-bottom: 0.5%;
+ }
+
+ .guides{
+   margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 21PX;
+    margin-bottom: 21PX;
+
+ }
+ .collectionCard{
+   background-color: white;
+   display: inline-block;
+   
+
+ }
+
+ .card11 {
+   width: 100px;
+   display: inline;
+ }
+ .card22 {
+   width: 100px;
+   display: inline;
+ }
+ .card33 {
+   width: 100px;
+   display: inline;
+ }
+ .card44 {
+   width: 100px;
+   display: inline;
+ }
+
+ main , div , p {
+   color: black;
  }
