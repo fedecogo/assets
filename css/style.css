@@ -48,27 +48,76 @@
  }
  .collectionCard{
    background-color: white;
-   display: inline-block;
+
+   text-align: center; 
    
-
+  overflow: hidden; 
  }
 
- .card11 {
-   width: 100px;
-   display: inline;
- }
- .card22 {
-   width: 100px;
-   display: inline;
- }
- .card33 {
-   width: 100px;
-   display: inline;
- }
- .card44 {
-   width: 100px;
-   display: inline;
- }
+ .card11{
+   width: 60px;
+   
+      float: left; /* Mette le immagini una accanto all'altra */
+      margin-left:5%;
+      margin-right:5%;
+    }
+ .card22{
+   width: 60px;
+   
+      float: left; /* Mette le immagini una accanto all'altra */
+      margin-left:5%;
+      margin-right:5%;
+    }
+ .card33{
+   width: 60px;
+   
+      float: left; /* Mette le immagini una accanto all'altra */
+      margin-left:5%;
+      margin-right:5%;
+    }
+ .card44{
+   width: 60px;
+   
+      float: left; /* Mette le immagini una accanto all'altra */
+      margin-left:5%;
+      margin-right:5%;
+    }
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .p1{
+   padding-left:50%;
+   padding-right:50%;
+   width: 170px;
+    display: inline-block;
+    text-align: center;
+    }
+
+    .bigcard1 img{
+      width: 100%;
+    }
+ 
+ 
+ 
+
 
  main , div , p {
    color: black;
